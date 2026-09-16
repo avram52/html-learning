@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35bb5966-5694-4bca-91ce-5e3bba17317b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2366367772621647" />
+      <entry key="MS500" value="2.1298586389653766" />
+      <entry key="S2" value="4.73360004174593" />
+      <entry key="S5" value="6.367361187391517" />
+      <entry key="S10" value="7.115450182035501" />
+      <entry key="S30" value="7.689202210276154" />
+      <entry key="S60" value="8.073926618368297" />
+      <entry key="M2" value="11.933951967272947" />
+      <entry key="M5" value="30.397696187642897" />
+      <entry key="M10" value="47.86806401032529" />
+      <entry key="M15" value="56.32089126755503" />
+      <entry key="M30" value="66.5702719886219" />
+      <entry key="H1" value="72.48557849112669" />
+      <entry key="H2" value="75.66422883028638" />
+      <entry key="H4" value="77.31199566428859" />
+      <entry key="D1" value="78.71583009284866" />
+      <entry key="W1" value="78.95933430081307" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.022674120603052" />
+      <entry key="MS500" value="1.981450171339976" />
+      <entry key="S2" value="4.561161256687504" />
+      <entry key="S5" value="6.261637015745134" />
+      <entry key="S10" value="7.054014307561623" />
+      <entry key="S30" value="7.666517032761531" />
+      <entry key="S60" value="8.062222506766386" />
+      <entry key="M2" value="11.92731007358007" />
+      <entry key="M5" value="30.393325091275127" />
+      <entry key="M10" value="47.86498992906636" />
+      <entry key="M15" value="56.31854469503083" />
+      <entry key="M30" value="66.56891497505491" />
+      <entry key="H1" value="72.48484619627041" />
+      <entry key="H2" value="75.6638481255292" />
+      <entry key="H4" value="77.31180152493997" />
+      <entry key="D1" value="78.71579719735828" />
+      <entry key="W1" value="78.95932958808692" />
+    </decayedShown>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/.idea/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
