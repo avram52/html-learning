@@ -1,0 +1,9 @@
+# .gitignore content for HTML/WebStorm projects
+.idea/
+.vscode/
+vcs.xml
+*.workspace.xml
+*.webstorm.local.*
+.DS_Store
+Thumbs.db
+node_modules/
